@@ -4,7 +4,7 @@
 
 **************
 
-https://nmfs-fish-tools.github.io/SEINE/
+https://nmfs-fish-tools.github.io/SEINE
 
 **************
 
